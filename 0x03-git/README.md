@@ -1,1 +1,1 @@
-Git is great
+<small>My first commit</small>
